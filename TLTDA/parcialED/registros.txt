@@ -1,0 +1,15 @@
+Identificacion: 234, Nombres: fgh, Apellidos: dfgh, Numero de contacto: gh, Correo: dfg, Perfil Profesional: dfg, Sexo: fg, Estudios realizados: fgh
+placa: 123, descripcion: efghm, nombre: dfghdfg, ruta: dfghh, marca: dfghj, modelo: dfghj
+placa: dsfg, descripcion: dfg, nombre: dfd, ruta: sdf, marca: dsf, modelo: 
+placa: dfgh, descripcion: df, nombre: , ruta: , marca: , modelo: 
+placa: dfgh, descripcion: df, nombre: 456sdf, ruta: df, marca: dsfd, modelo: dfd
+placa: 123, descripcion: serdtfyui, nombre: rdsfgfgj, ruta: sdsfgfhg, marca: dssfgh, modelo: sdfghj
+placa: 123, descripcion: dfghyhjk, nombre: rtyu, ruta: ertyhg, marca: dssfgh, modelo: sdfghj
+placa: 123, descripcion: fghjk, nombre: fghj, ruta: rth, marca: rfgh, modelo: fghj
+placa: 123, descripcion: fghjk, nombre: fghj, ruta: rth, marca: rfgh, modelo: fghj
+placa: 123, descripcion: sdfdghn, nombre: gdhg, ruta: sgdh, marca: gh, modelo: fgdh
+placa: 123, descripcion: sdfdghn, nombre: gdhg, ruta: sgdh, marca: gh, modelo: fgdh
+placa: 123, descripcion: 23456, nombre: sdfgh, ruta: sdfgh, marca: esdfghdfgh, modelo: dsfghj
+placa: 123, descripcion: 23456, nombre: sdfgh, ruta: sdfgh, marca: esdfghdfgh, modelo: dsfghj
+placa: 123, descripcion: erfgh, nombre: dfg, ruta: dfg, marca: dfg, modelo: dfg
+placa: 123, descripcion: erthj, nombre: dghfjg, ruta: fghf, marca: dfgh, modelo: fgh
